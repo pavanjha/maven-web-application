@@ -85,7 +85,7 @@
 		<!-- provided dependencies -->
 
 		<dependency>
-			<groupId>pavanppppp</groupId>
+			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
 			<version>3.6</version>
 			<scope>provided</scope>
